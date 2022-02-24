@@ -9,3 +9,5 @@ while i < 0
 end
 
 %Kan jeg Endre?
+
+%Ja, det kan jeg
